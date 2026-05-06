@@ -1,0 +1,2597 @@
+{
+  "Aceh Barat": {
+    "forest_cover": 45.6,
+    "biodiversity": 50.8,
+    "degradation": 29.6
+  },
+  "Aceh Barat Daya": {
+    "forest_cover": 28.9,
+    "biodiversity": 73.6,
+    "degradation": 43.7
+  },
+  "Aceh Besar": {
+    "forest_cover": 55.7,
+    "biodiversity": 52.8,
+    "degradation": 34.8
+  },
+  "Aceh Jaya": {
+    "forest_cover": 21.2,
+    "biodiversity": 57.0,
+    "degradation": 37.7
+  },
+  "Aceh Selatan": {
+    "forest_cover": 21.1,
+    "biodiversity": 56.4,
+    "degradation": 42.7
+  },
+  "Aceh Singkil": {
+    "forest_cover": 41.8,
+    "biodiversity": 57.1,
+    "degradation": 40.6
+  },
+  "Aceh Tamiang": {
+    "forest_cover": 52.4,
+    "biodiversity": 50.2,
+    "degradation": 48.2
+  },
+  "Aceh Tengah": {
+    "forest_cover": 47.9,
+    "biodiversity": 60.9,
+    "degradation": 25.4
+  },
+  "Aceh Tenggara": {
+    "forest_cover": 58.3,
+    "biodiversity": 60.8,
+    "degradation": 23.2
+  },
+  "Aceh Timur": {
+    "forest_cover": 23.9,
+    "biodiversity": 77.1,
+    "degradation": 41.1
+  },
+  "Aceh Utara": {
+    "forest_cover": 52.3,
+    "biodiversity": 73.4,
+    "degradation": 38.8
+  },
+  "Agam": {
+    "forest_cover": 58.9,
+    "biodiversity": 62.1,
+    "degradation": 39.3
+  },
+  "Alor": {
+    "forest_cover": 34.9,
+    "biodiversity": 53.6,
+    "degradation": 55.9
+  },
+  "Asahan": {
+    "forest_cover": 43.1,
+    "biodiversity": 72.5,
+    "degradation": 21.6
+  },
+  "Asmat": {
+    "forest_cover": 66.8,
+    "biodiversity": 81.7,
+    "degradation": 3.4
+  },
+  "Badung": {
+    "forest_cover": 22.7,
+    "biodiversity": 44.6,
+    "degradation": 36.9
+  },
+  "Balangan": {
+    "forest_cover": 42.2,
+    "biodiversity": 55.9,
+    "degradation": 31.1
+  },
+  "Bandung": {
+    "forest_cover": 10.2,
+    "biodiversity": 34.3,
+    "degradation": 67.8
+  },
+  "Bandung Barat": {
+    "forest_cover": 21.2,
+    "biodiversity": 46.3,
+    "degradation": 41.0
+  },
+  "Banggai": {
+    "forest_cover": 48.2,
+    "biodiversity": 52.9,
+    "degradation": 30.1
+  },
+  "Banggai Kepulauan": {
+    "forest_cover": 57.6,
+    "biodiversity": 67.2,
+    "degradation": 35.8
+  },
+  "Banggai Laut": {
+    "forest_cover": 46.6,
+    "biodiversity": 73.3,
+    "degradation": 42.8
+  },
+  "Bangka": {
+    "forest_cover": 28.0,
+    "biodiversity": 46.0,
+    "degradation": 29.5
+  },
+  "Bangka Barat": {
+    "forest_cover": 29.4,
+    "biodiversity": 51.3,
+    "degradation": 48.3
+  },
+  "Bangka Selatan": {
+    "forest_cover": 50.7,
+    "biodiversity": 54.4,
+    "degradation": 39.7
+  },
+  "Bangka Tengah": {
+    "forest_cover": 33.8,
+    "biodiversity": 72.4,
+    "degradation": 33.8
+  },
+  "Bangkalan": {
+    "forest_cover": 11.6,
+    "biodiversity": 33.6,
+    "degradation": 54.6
+  },
+  "Bangli": {
+    "forest_cover": 23.3,
+    "biodiversity": 57.2,
+    "degradation": 52.4
+  },
+  "Banjar": {
+    "forest_cover": 34.0,
+    "biodiversity": 51.6,
+    "degradation": 49.9
+  },
+  "Banjarnegara": {
+    "forest_cover": 17.7,
+    "biodiversity": 28.2,
+    "degradation": 36.6
+  },
+  "Bantaeng": {
+    "forest_cover": 25.9,
+    "biodiversity": 66.8,
+    "degradation": 43.3
+  },
+  "Bantul": {
+    "forest_cover": 15.6,
+    "biodiversity": 27.2,
+    "degradation": 48.4
+  },
+  "Banyu Asin": {
+    "forest_cover": 54.9,
+    "biodiversity": 60.9,
+    "degradation": 49.1
+  },
+  "Banyumas": {
+    "forest_cover": 26.5,
+    "biodiversity": 25.4,
+    "degradation": 60.2
+  },
+  "Banyuwangi": {
+    "forest_cover": 22.0,
+    "biodiversity": 43.8,
+    "degradation": 44.3
+  },
+  "Barito Kuala": {
+    "forest_cover": 60.6,
+    "biodiversity": 63.1,
+    "degradation": 28.0
+  },
+  "Barito Selatan": {
+    "forest_cover": 53.1,
+    "biodiversity": 86.7,
+    "degradation": 41.3
+  },
+  "Barito Timur": {
+    "forest_cover": 45.5,
+    "biodiversity": 74.0,
+    "degradation": 20.4
+  },
+  "Barito Utara": {
+    "forest_cover": 71.5,
+    "biodiversity": 84.4,
+    "degradation": 24.0
+  },
+  "Barru": {
+    "forest_cover": 42.4,
+    "biodiversity": 63.3,
+    "degradation": 24.6
+  },
+  "Batang": {
+    "forest_cover": 46.7,
+    "biodiversity": 61.2,
+    "degradation": 43.4
+  },
+  "Batang Hari": {
+    "forest_cover": 38.6,
+    "biodiversity": 45.0,
+    "degradation": 29.7
+  },
+  "Batu Bara": {
+    "forest_cover": 20.8,
+    "biodiversity": 79.7,
+    "degradation": 50.8
+  },
+  "Bekasi": {
+    "forest_cover": 25.8,
+    "biodiversity": 35.8,
+    "degradation": 37.0
+  },
+  "Belitung": {
+    "forest_cover": 50.7,
+    "biodiversity": 73.4,
+    "degradation": 22.6
+  },
+  "Belitung Timur": {
+    "forest_cover": 37.0,
+    "biodiversity": 47.1,
+    "degradation": 42.8
+  },
+  "Belu": {
+    "forest_cover": 33.0,
+    "biodiversity": 38.9,
+    "degradation": 44.3
+  },
+  "Bener Meriah": {
+    "forest_cover": 39.2,
+    "biodiversity": 53.0,
+    "degradation": 46.2
+  },
+  "Bengkalis": {
+    "forest_cover": 36.9,
+    "biodiversity": 56.8,
+    "degradation": 38.9
+  },
+  "Bengkayang": {
+    "forest_cover": 64.2,
+    "biodiversity": 65.6,
+    "degradation": 24.4
+  },
+  "Bengkulu Selatan": {
+    "forest_cover": 59.8,
+    "biodiversity": 70.8,
+    "degradation": 35.3
+  },
+  "Bengkulu Tengah": {
+    "forest_cover": 40.7,
+    "biodiversity": 53.9,
+    "degradation": 27.9
+  },
+  "Bengkulu Utara": {
+    "forest_cover": 33.5,
+    "biodiversity": 68.8,
+    "degradation": 28.1
+  },
+  "Berau": {
+    "forest_cover": 43.8,
+    "biodiversity": 62.0,
+    "degradation": 33.9
+  },
+  "Biak Numfor": {
+    "forest_cover": 66.9,
+    "biodiversity": 95.8,
+    "degradation": 17.5
+  },
+  "Bima": {
+    "forest_cover": 14.1,
+    "biodiversity": 44.4,
+    "degradation": 45.1
+  },
+  "Bintan": {
+    "forest_cover": 66.4,
+    "biodiversity": 78.0,
+    "degradation": 18.8
+  },
+  "Bireuen": {
+    "forest_cover": 40.0,
+    "biodiversity": 59.2,
+    "degradation": 43.5
+  },
+  "Blitar": {
+    "forest_cover": 25.2,
+    "biodiversity": 31.7,
+    "degradation": 38.4
+  },
+  "Blora": {
+    "forest_cover": 15.8,
+    "biodiversity": 39.8,
+    "degradation": 51.3
+  },
+  "Boalemo": {
+    "forest_cover": 45.5,
+    "biodiversity": 65.2,
+    "degradation": 49.5
+  },
+  "Bogor": {
+    "forest_cover": 7.5,
+    "biodiversity": 39.1,
+    "degradation": 46.9
+  },
+  "Bojonegoro": {
+    "forest_cover": 26.5,
+    "biodiversity": 33.7,
+    "degradation": 41.7
+  },
+  "Bolaang Mongondow": {
+    "forest_cover": 38.2,
+    "biodiversity": 60.7,
+    "degradation": 26.9
+  },
+  "Bolaang Mongondow Selatan": {
+    "forest_cover": 31.0,
+    "biodiversity": 75.7,
+    "degradation": 32.2
+  },
+  "Bolaang Mongondow Timur": {
+    "forest_cover": 53.0,
+    "biodiversity": 64.5,
+    "degradation": 19.6
+  },
+  "Bolaang Mongondow Utara": {
+    "forest_cover": 58.0,
+    "biodiversity": 73.1,
+    "degradation": 49.0
+  },
+  "Bombana": {
+    "forest_cover": 55.3,
+    "biodiversity": 73.5,
+    "degradation": 23.3
+  },
+  "Bondowoso": {
+    "forest_cover": 17.1,
+    "biodiversity": 32.5,
+    "degradation": 49.0
+  },
+  "Bone": {
+    "forest_cover": 24.1,
+    "biodiversity": 59.4,
+    "degradation": 49.5
+  },
+  "Bone Bolango": {
+    "forest_cover": 31.5,
+    "biodiversity": 71.5,
+    "degradation": 32.6
+  },
+  "Boven Digoel": {
+    "forest_cover": 72.7,
+    "biodiversity": 97.0,
+    "degradation": 19.9
+  },
+  "Boyolali": {
+    "forest_cover": 18.9,
+    "biodiversity": 50.1,
+    "degradation": 40.4
+  },
+  "Brebes": {
+    "forest_cover": 30.4,
+    "biodiversity": 74.1,
+    "degradation": 37.4
+  },
+  "Buleleng": {
+    "forest_cover": 28.8,
+    "biodiversity": 61.4,
+    "degradation": 31.4
+  },
+  "Bulukumba": {
+    "forest_cover": 43.0,
+    "biodiversity": 63.1,
+    "degradation": 45.3
+  },
+  "Bulungan": {
+    "forest_cover": 41.3,
+    "biodiversity": 86.9,
+    "degradation": 17.4
+  },
+  "Bungo": {
+    "forest_cover": 27.4,
+    "biodiversity": 69.0,
+    "degradation": 43.6
+  },
+  "Buol": {
+    "forest_cover": 30.5,
+    "biodiversity": 51.6,
+    "degradation": 46.5
+  },
+  "Buru": {
+    "forest_cover": 47.9,
+    "biodiversity": 74.1,
+    "degradation": 25.5
+  },
+  "Buru Selatan": {
+    "forest_cover": 53.4,
+    "biodiversity": 73.8,
+    "degradation": 23.1
+  },
+  "Buton": {
+    "forest_cover": 55.6,
+    "biodiversity": 54.1,
+    "degradation": 40.9
+  },
+  "Buton Selatan": {
+    "forest_cover": 30.6,
+    "biodiversity": 59.9,
+    "degradation": 39.5
+  },
+  "Buton Tengah": {
+    "forest_cover": 32.8,
+    "biodiversity": 57.5,
+    "degradation": 42.1
+  },
+  "Buton Utara": {
+    "forest_cover": 24.6,
+    "biodiversity": 61.7,
+    "degradation": 50.0
+  },
+  "Ciamis": {
+    "forest_cover": 29.9,
+    "biodiversity": 27.6,
+    "degradation": 42.5
+  },
+  "Cianjur": {
+    "forest_cover": 11.6,
+    "biodiversity": 57.7,
+    "degradation": 65.8
+  },
+  "Cilacap": {
+    "forest_cover": 27.0,
+    "biodiversity": 37.9,
+    "degradation": 40.5
+  },
+  "Cirebon": {
+    "forest_cover": 25.8,
+    "biodiversity": 49.6,
+    "degradation": 56.4
+  },
+  "Dairi": {
+    "forest_cover": 59.5,
+    "biodiversity": 70.9,
+    "degradation": 20.3
+  },
+  "Danau": {
+    "forest_cover": 48.6,
+    "biodiversity": 54.0,
+    "degradation": 39.9
+  },
+  "Danau Toba": {
+    "forest_cover": 57.6,
+    "biodiversity": 54.3,
+    "degradation": 24.0
+  },
+  "Deiyai": {
+    "forest_cover": 63.2,
+    "biodiversity": 87.7,
+    "degradation": 6.9
+  },
+  "Deli Serdang": {
+    "forest_cover": 44.2,
+    "biodiversity": 73.0,
+    "degradation": 27.1
+  },
+  "Demak": {
+    "forest_cover": 20.9,
+    "biodiversity": 34.2,
+    "degradation": 52.1
+  },
+  "Dharmasraya": {
+    "forest_cover": 56.2,
+    "biodiversity": 77.1,
+    "degradation": 23.2
+  },
+  "Dogiyai": {
+    "forest_cover": 72.7,
+    "biodiversity": 81.4,
+    "degradation": 2.1
+  },
+  "Dompu": {
+    "forest_cover": 35.1,
+    "biodiversity": 55.2,
+    "degradation": 32.9
+  },
+  "Donggala": {
+    "forest_cover": 48.7,
+    "biodiversity": 64.6,
+    "degradation": 31.7
+  },
+  "Empat Lawang": {
+    "forest_cover": 20.4,
+    "biodiversity": 52.4,
+    "degradation": 50.9
+  },
+  "Ende": {
+    "forest_cover": 37.1,
+    "biodiversity": 51.4,
+    "degradation": 55.0
+  },
+  "Enrekang": {
+    "forest_cover": 40.4,
+    "biodiversity": 49.4,
+    "degradation": 23.8
+  },
+  "Fakfak": {
+    "forest_cover": 30.8,
+    "biodiversity": 72.0,
+    "degradation": 43.9
+  },
+  "Flores Timur": {
+    "forest_cover": 35.8,
+    "biodiversity": 62.0,
+    "degradation": 36.3
+  },
+  "Garut": {
+    "forest_cover": 48.0,
+    "biodiversity": 60.8,
+    "degradation": 29.5
+  },
+  "Gayo Lues": {
+    "forest_cover": 50.9,
+    "biodiversity": 57.2,
+    "degradation": 38.6
+  },
+  "Gianyar": {
+    "forest_cover": 21.1,
+    "biodiversity": 66.2,
+    "degradation": 51.6
+  },
+  "Gorontalo": {
+    "forest_cover": 57.1,
+    "biodiversity": 72.3,
+    "degradation": 46.2
+  },
+  "Gorontalo Utara": {
+    "forest_cover": 22.9,
+    "biodiversity": 70.1,
+    "degradation": 28.6
+  },
+  "Gowa": {
+    "forest_cover": 55.5,
+    "biodiversity": 72.1,
+    "degradation": 45.7
+  },
+  "Gresik": {
+    "forest_cover": 25.3,
+    "biodiversity": 34.3,
+    "degradation": 62.6
+  },
+  "Grobogan": {
+    "forest_cover": 24.3,
+    "biodiversity": 77.9,
+    "degradation": 50.1
+  },
+  "Gunung Kidul": {
+    "forest_cover": 10.6,
+    "biodiversity": 53.6,
+    "degradation": 51.1
+  },
+  "Gunung Mas": {
+    "forest_cover": 47.2,
+    "biodiversity": 82.3,
+    "degradation": 21.8
+  },
+  "Halmahera Barat": {
+    "forest_cover": 40.8,
+    "biodiversity": 63.2,
+    "degradation": 18.2
+  },
+  "Halmahera Selatan": {
+    "forest_cover": 67.7,
+    "biodiversity": 84.1,
+    "degradation": 17.0
+  },
+  "Halmahera Tengah": {
+    "forest_cover": 60.5,
+    "biodiversity": 68.8,
+    "degradation": 34.5
+  },
+  "Halmahera Timur": {
+    "forest_cover": 57.2,
+    "biodiversity": 83.4,
+    "degradation": 12.9
+  },
+  "Halmahera Utara": {
+    "forest_cover": 71.1,
+    "biodiversity": 62.8,
+    "degradation": 34.1
+  },
+  "Hulu Sungai Selatan": {
+    "forest_cover": 29.3,
+    "biodiversity": 48.3,
+    "degradation": 33.0
+  },
+  "Hulu Sungai Tengah": {
+    "forest_cover": 45.5,
+    "biodiversity": 54.4,
+    "degradation": 38.2
+  },
+  "Hulu Sungai Utara": {
+    "forest_cover": 37.9,
+    "biodiversity": 56.6,
+    "degradation": 37.3
+  },
+  "Humbang Hasundutan": {
+    "forest_cover": 30.2,
+    "biodiversity": 72.7,
+    "degradation": 20.1
+  },
+  "Hutan": {
+    "forest_cover": 52.4,
+    "biodiversity": 61.2,
+    "degradation": 41.6
+  },
+  "Indragiri Hilir": {
+    "forest_cover": 49.7,
+    "biodiversity": 71.5,
+    "degradation": 32.7
+  },
+  "Indragiri Hulu": {
+    "forest_cover": 22.8,
+    "biodiversity": 71.3,
+    "degradation": 31.6
+  },
+  "Indramayu": {
+    "forest_cover": 12.8,
+    "biodiversity": 54.7,
+    "degradation": 60.2
+  },
+  "Intan Jaya": {
+    "forest_cover": 69.0,
+    "biodiversity": 82.1,
+    "degradation": 9.4
+  },
+  "Jayapura": {
+    "forest_cover": 72.1,
+    "biodiversity": 81.8,
+    "degradation": 4.3
+  },
+  "Jayawijaya": {
+    "forest_cover": 72.6,
+    "biodiversity": 96.6,
+    "degradation": 14.2
+  },
+  "Jember": {
+    "forest_cover": 27.6,
+    "biodiversity": 46.5,
+    "degradation": 45.5
+  },
+  "Jembrana": {
+    "forest_cover": 29.0,
+    "biodiversity": 42.0,
+    "degradation": 37.2
+  },
+  "Jeneponto": {
+    "forest_cover": 37.5,
+    "biodiversity": 65.4,
+    "degradation": 39.0
+  },
+  "Jepara": {
+    "forest_cover": 16.6,
+    "biodiversity": 40.5,
+    "degradation": 42.5
+  },
+  "Jombang": {
+    "forest_cover": 16.8,
+    "biodiversity": 56.5,
+    "degradation": 62.9
+  },
+  "Kaimana": {
+    "forest_cover": 25.9,
+    "biodiversity": 47.5,
+    "degradation": 35.5
+  },
+  "Kampar": {
+    "forest_cover": 45.3,
+    "biodiversity": 60.7,
+    "degradation": 48.6
+  },
+  "Kapuas": {
+    "forest_cover": 65.0,
+    "biodiversity": 78.8,
+    "degradation": 21.7
+  },
+  "Kapuas Hulu": {
+    "forest_cover": 43.0,
+    "biodiversity": 60.7,
+    "degradation": 22.3
+  },
+  "Karang Asem": {
+    "forest_cover": 27.5,
+    "biodiversity": 64.1,
+    "degradation": 31.8
+  },
+  "Karanganyar": {
+    "forest_cover": 15.4,
+    "biodiversity": 47.0,
+    "degradation": 41.8
+  },
+  "Karawang": {
+    "forest_cover": 22.4,
+    "biodiversity": 42.3,
+    "degradation": 43.5
+  },
+  "Karimun": {
+    "forest_cover": 46.2,
+    "biodiversity": 50.2,
+    "degradation": 46.3
+  },
+  "Karo": {
+    "forest_cover": 50.8,
+    "biodiversity": 53.4,
+    "degradation": 34.9
+  },
+  "Katingan": {
+    "forest_cover": 42.0,
+    "biodiversity": 86.8,
+    "degradation": 30.5
+  },
+  "Kaur": {
+    "forest_cover": 22.0,
+    "biodiversity": 58.0,
+    "degradation": 49.7
+  },
+  "Kayong Utara": {
+    "forest_cover": 53.3,
+    "biodiversity": 82.4,
+    "degradation": 35.0
+  },
+  "Kebumen": {
+    "forest_cover": 29.7,
+    "biodiversity": 45.8,
+    "degradation": 68.3
+  },
+  "Kediri": {
+    "forest_cover": 27.3,
+    "biodiversity": 46.4,
+    "degradation": 60.2
+  },
+  "Keerom": {
+    "forest_cover": 75.1,
+    "biodiversity": 94.1,
+    "degradation": 11.9
+  },
+  "Kendal": {
+    "forest_cover": 27.4,
+    "biodiversity": 51.0,
+    "degradation": 51.6
+  },
+  "Kepahiang": {
+    "forest_cover": 30.4,
+    "biodiversity": 57.9,
+    "degradation": 42.3
+  },
+  "Kepulauan Anambas": {
+    "forest_cover": 50.6,
+    "biodiversity": 66.7,
+    "degradation": 41.9
+  },
+  "Kepulauan Aru": {
+    "forest_cover": 48.8,
+    "biodiversity": 60.1,
+    "degradation": 17.1
+  },
+  "Kepulauan Mentawai": {
+    "forest_cover": 29.5,
+    "biodiversity": 54.6,
+    "degradation": 36.2
+  },
+  "Kepulauan Meranti": {
+    "forest_cover": 25.5,
+    "biodiversity": 57.4,
+    "degradation": 44.3
+  },
+  "Kepulauan Sangihe": {
+    "forest_cover": 47.4,
+    "biodiversity": 49.9,
+    "degradation": 31.0
+  },
+  "Kepulauan Selayar": {
+    "forest_cover": 39.0,
+    "biodiversity": 57.5,
+    "degradation": 26.2
+  },
+  "Kepulauan Seribu": {
+    "forest_cover": 34.7,
+    "biodiversity": 72.1,
+    "degradation": 37.5
+  },
+  "Kepulauan Sula": {
+    "forest_cover": 44.3,
+    "biodiversity": 70.7,
+    "degradation": 43.0
+  },
+  "Kepulauan Talaud": {
+    "forest_cover": 35.7,
+    "biodiversity": 48.2,
+    "degradation": 29.3
+  },
+  "Kepulauan Yapen": {
+    "forest_cover": 82.6,
+    "biodiversity": 94.6,
+    "degradation": 19.2
+  },
+  "Kerinci": {
+    "forest_cover": 36.8,
+    "biodiversity": 73.9,
+    "degradation": 39.1
+  },
+  "Ketapang": {
+    "forest_cover": 59.1,
+    "biodiversity": 66.2,
+    "degradation": 21.6
+  },
+  "Klaten": {
+    "forest_cover": 15.9,
+    "biodiversity": 26.0,
+    "degradation": 46.8
+  },
+  "Klungkung": {
+    "forest_cover": 31.6,
+    "biodiversity": 52.5,
+    "degradation": 34.1
+  },
+  "Kolaka": {
+    "forest_cover": 38.8,
+    "biodiversity": 51.8,
+    "degradation": 37.9
+  },
+  "Kolaka Timur": {
+    "forest_cover": 23.0,
+    "biodiversity": 59.8,
+    "degradation": 36.1
+  },
+  "Kolaka Utara": {
+    "forest_cover": 23.0,
+    "biodiversity": 67.3,
+    "degradation": 22.3
+  },
+  "Konawe": {
+    "forest_cover": 38.6,
+    "biodiversity": 49.5,
+    "degradation": 30.1
+  },
+  "Konawe Kepulauan": {
+    "forest_cover": 29.6,
+    "biodiversity": 57.8,
+    "degradation": 42.4
+  },
+  "Konawe Selatan": {
+    "forest_cover": 35.6,
+    "biodiversity": 70.6,
+    "degradation": 44.6
+  },
+  "Konawe Utara": {
+    "forest_cover": 31.1,
+    "biodiversity": 50.5,
+    "degradation": 18.6
+  },
+  "Kota Ambon": {
+    "forest_cover": 39.6,
+    "biodiversity": 70.0,
+    "degradation": 30.5
+  },
+  "Kota Balikpapan": {
+    "forest_cover": 42.8,
+    "biodiversity": 68.0,
+    "degradation": 47.8
+  },
+  "Kota Banda Aceh": {
+    "forest_cover": 31.4,
+    "biodiversity": 65.6,
+    "degradation": 38.0
+  },
+  "Kota Bandar Lampung": {
+    "forest_cover": 5.7,
+    "biodiversity": 44.1,
+    "degradation": 35.0
+  },
+  "Kota Bandung": {
+    "forest_cover": 7.0,
+    "biodiversity": 31.9,
+    "degradation": 53.7
+  },
+  "Kota Banjar": {
+    "forest_cover": 26.0,
+    "biodiversity": 54.2,
+    "degradation": 35.9
+  },
+  "Kota Banjar Baru": {
+    "forest_cover": 41.4,
+    "biodiversity": 64.5,
+    "degradation": 23.4
+  },
+  "Kota Banjarmasin": {
+    "forest_cover": 29.6,
+    "biodiversity": 59.1,
+    "degradation": 33.8
+  },
+  "Kota Baru": {
+    "forest_cover": 25.7,
+    "biodiversity": 54.9,
+    "degradation": 40.3
+  },
+  "Kota Batam": {
+    "forest_cover": 38.5,
+    "biodiversity": 50.7,
+    "degradation": 58.6
+  },
+  "Kota Batu": {
+    "forest_cover": 7.3,
+    "biodiversity": 52.3,
+    "degradation": 52.0
+  },
+  "Kota Baubau": {
+    "forest_cover": 10.2,
+    "biodiversity": 57.3,
+    "degradation": 59.5
+  },
+  "Kota Bekasi": {
+    "forest_cover": 6.4,
+    "biodiversity": 18.6,
+    "degradation": 84.4
+  },
+  "Kota Bengkulu": {
+    "forest_cover": 32.4,
+    "biodiversity": 49.4,
+    "degradation": 47.1
+  },
+  "Kota Bima": {
+    "forest_cover": 8.8,
+    "biodiversity": 39.1,
+    "degradation": 46.9
+  },
+  "Kota Binjai": {
+    "forest_cover": 30.5,
+    "biodiversity": 55.6,
+    "degradation": 33.7
+  },
+  "Kota Bitung": {
+    "forest_cover": 36.8,
+    "biodiversity": 53.9,
+    "degradation": 58.7
+  },
+  "Kota Blitar": {
+    "forest_cover": 7.4,
+    "biodiversity": 28.1,
+    "degradation": 74.4
+  },
+  "Kota Bogor": {
+    "forest_cover": 9.7,
+    "biodiversity": 23.1,
+    "degradation": 77.3
+  },
+  "Kota Bontang": {
+    "forest_cover": 38.8,
+    "biodiversity": 61.1,
+    "degradation": 40.2
+  },
+  "Kota Bukittinggi": {
+    "forest_cover": 26.9,
+    "biodiversity": 41.7,
+    "degradation": 59.8
+  },
+  "Kota Cilegon": {
+    "forest_cover": 29.9,
+    "biodiversity": 37.2,
+    "degradation": 60.9
+  },
+  "Kota Cimahi": {
+    "forest_cover": 12.3,
+    "biodiversity": 46.6,
+    "degradation": 51.4
+  },
+  "Kota Cirebon": {
+    "forest_cover": 4.4,
+    "biodiversity": 15.9,
+    "degradation": 79.0
+  },
+  "Kota Denpasar": {
+    "forest_cover": 5.7,
+    "biodiversity": 36.5,
+    "degradation": 63.9
+  },
+  "Kota Depok": {
+    "forest_cover": 15.2,
+    "biodiversity": 57.0,
+    "degradation": 54.5
+  },
+  "Kota Dumai": {
+    "forest_cover": 13.3,
+    "biodiversity": 35.3,
+    "degradation": 63.2
+  },
+  "Kota Gorontalo": {
+    "forest_cover": 9.7,
+    "biodiversity": 56.0,
+    "degradation": 46.1
+  },
+  "Kota Gunungsitoli": {
+    "forest_cover": 30.5,
+    "biodiversity": 55.3,
+    "degradation": 51.9
+  },
+  "Kota Jakarta Barat": {
+    "forest_cover": 5.4,
+    "biodiversity": 38.8,
+    "degradation": 48.7
+  },
+  "Kota Jakarta Pusat": {
+    "forest_cover": 3.0,
+    "biodiversity": 35.8,
+    "degradation": 57.2
+  },
+  "Kota Jakarta Selatan": {
+    "forest_cover": 6.2,
+    "biodiversity": 29.2,
+    "degradation": 66.2
+  },
+  "Kota Jakarta Timur": {
+    "forest_cover": 4.8,
+    "biodiversity": 37.4,
+    "degradation": 58.2
+  },
+  "Kota Jakarta Utara": {
+    "forest_cover": 7.3,
+    "biodiversity": 23.1,
+    "degradation": 55.1
+  },
+  "Kota Jambi": {
+    "forest_cover": 9.2,
+    "biodiversity": 45.2,
+    "degradation": 34.8
+  },
+  "Kota Jayapura": {
+    "forest_cover": 58.4,
+    "biodiversity": 78.7,
+    "degradation": 16.3
+  },
+  "Kota Kediri": {
+    "forest_cover": 2.9,
+    "biodiversity": 29.5,
+    "degradation": 74.0
+  },
+  "Kota Kendari": {
+    "forest_cover": 37.3,
+    "biodiversity": 51.1,
+    "degradation": 38.5
+  },
+  "Kota Kotamobagu": {
+    "forest_cover": 10.1,
+    "biodiversity": 42.9,
+    "degradation": 36.4
+  },
+  "Kota Kupang": {
+    "forest_cover": 4.4,
+    "biodiversity": 25.4,
+    "degradation": 58.7
+  },
+  "Kota Langsa": {
+    "forest_cover": 13.2,
+    "biodiversity": 59.4,
+    "degradation": 49.4
+  },
+  "Kota Lhokseumawe": {
+    "forest_cover": 25.9,
+    "biodiversity": 38.2,
+    "degradation": 60.4
+  },
+  "Kota Lubuklinggau": {
+    "forest_cover": 22.2,
+    "biodiversity": 63.6,
+    "degradation": 53.0
+  },
+  "Kota Madiun": {
+    "forest_cover": 5.2,
+    "biodiversity": 28.2,
+    "degradation": 52.4
+  },
+  "Kota Magelang": {
+    "forest_cover": 1.5,
+    "biodiversity": 43.2,
+    "degradation": 64.1
+  },
+  "Kota Makassar": {
+    "forest_cover": 32.5,
+    "biodiversity": 48.0,
+    "degradation": 30.7
+  },
+  "Kota Malang": {
+    "forest_cover": 6.7,
+    "biodiversity": 16.6,
+    "degradation": 51.0
+  },
+  "Kota Manado": {
+    "forest_cover": 24.4,
+    "biodiversity": 45.6,
+    "degradation": 64.8
+  },
+  "Kota Mataram": {
+    "forest_cover": 3.5,
+    "biodiversity": 44.8,
+    "degradation": 56.2
+  },
+  "Kota Medan": {
+    "forest_cover": 28.7,
+    "biodiversity": 40.6,
+    "degradation": 48.3
+  },
+  "Kota Metro": {
+    "forest_cover": 18.5,
+    "biodiversity": 46.1,
+    "degradation": 60.1
+  },
+  "Kota Mojokerto": {
+    "forest_cover": 9.9,
+    "biodiversity": 24.2,
+    "degradation": 69.8
+  },
+  "Kota Padang": {
+    "forest_cover": 26.3,
+    "biodiversity": 60.0,
+    "degradation": 67.9
+  },
+  "Kota Padang Panjang": {
+    "forest_cover": 12.3,
+    "biodiversity": 45.7,
+    "degradation": 56.4
+  },
+  "Kota Padangsidimpuan": {
+    "forest_cover": 10.5,
+    "biodiversity": 44.7,
+    "degradation": 33.0
+  },
+  "Kota Pagar Alam": {
+    "forest_cover": 5.1,
+    "biodiversity": 46.3,
+    "degradation": 50.8
+  },
+  "Kota Palangka Raya": {
+    "forest_cover": 13.7,
+    "biodiversity": 40.8,
+    "degradation": 54.7
+  },
+  "Kota Palembang": {
+    "forest_cover": 26.1,
+    "biodiversity": 46.4,
+    "degradation": 54.1
+  },
+  "Kota Palopo": {
+    "forest_cover": 35.6,
+    "biodiversity": 57.7,
+    "degradation": 51.1
+  },
+  "Kota Palu": {
+    "forest_cover": 24.8,
+    "biodiversity": 58.3,
+    "degradation": 44.9
+  },
+  "Kota Pangkal Pinang": {
+    "forest_cover": 21.3,
+    "biodiversity": 51.2,
+    "degradation": 61.8
+  },
+  "Kota Parepare": {
+    "forest_cover": 29.8,
+    "biodiversity": 36.8,
+    "degradation": 35.8
+  },
+  "Kota Pariaman": {
+    "forest_cover": 15.8,
+    "biodiversity": 60.2,
+    "degradation": 52.8
+  },
+  "Kota Pasuruan": {
+    "forest_cover": 3.6,
+    "biodiversity": 18.7,
+    "degradation": 72.5
+  },
+  "Kota Payakumbuh": {
+    "forest_cover": 26.0,
+    "biodiversity": 58.6,
+    "degradation": 47.5
+  },
+  "Kota Pekalongan": {
+    "forest_cover": 19.8,
+    "biodiversity": 37.0,
+    "degradation": 31.4
+  },
+  "Kota Pekanbaru": {
+    "forest_cover": 36.7,
+    "biodiversity": 55.1,
+    "degradation": 27.5
+  },
+  "Kota Pematang Siantar": {
+    "forest_cover": 7.7,
+    "biodiversity": 59.0,
+    "degradation": 59.3
+  },
+  "Kota Pontianak": {
+    "forest_cover": 22.3,
+    "biodiversity": 58.8,
+    "degradation": 65.0
+  },
+  "Kota Prabumulih": {
+    "forest_cover": 25.2,
+    "biodiversity": 41.7,
+    "degradation": 31.4
+  },
+  "Kota Probolinggo": {
+    "forest_cover": 7.8,
+    "biodiversity": 29.1,
+    "degradation": 71.1
+  },
+  "Kota Sabang": {
+    "forest_cover": 32.5,
+    "biodiversity": 39.5,
+    "degradation": 50.5
+  },
+  "Kota Salatiga": {
+    "forest_cover": 24.0,
+    "biodiversity": 47.3,
+    "degradation": 33.2
+  },
+  "Kota Samarinda": {
+    "forest_cover": 32.2,
+    "biodiversity": 57.7,
+    "degradation": 48.5
+  },
+  "Kota Sawah Lunto": {
+    "forest_cover": 30.7,
+    "biodiversity": 43.2,
+    "degradation": 54.3
+  },
+  "Kota Semarang": {
+    "forest_cover": 3.6,
+    "biodiversity": 43.4,
+    "degradation": 77.5
+  },
+  "Kota Serang": {
+    "forest_cover": 6.0,
+    "biodiversity": 28.6,
+    "degradation": 57.6
+  },
+  "Kota Sibolga": {
+    "forest_cover": 14.7,
+    "biodiversity": 59.3,
+    "degradation": 44.1
+  },
+  "Kota Singkawang": {
+    "forest_cover": 20.4,
+    "biodiversity": 59.7,
+    "degradation": 53.0
+  },
+  "Kota Solok": {
+    "forest_cover": 24.0,
+    "biodiversity": 51.2,
+    "degradation": 37.5
+  },
+  "Kota Sorong": {
+    "forest_cover": 15.9,
+    "biodiversity": 53.9,
+    "degradation": 51.9
+  },
+  "Kota Subulussalam": {
+    "forest_cover": 27.8,
+    "biodiversity": 40.1,
+    "degradation": 49.2
+  },
+  "Kota Sukabumi": {
+    "forest_cover": 9.3,
+    "biodiversity": 28.1,
+    "degradation": 72.9
+  },
+  "Kota Sungai Penuh": {
+    "forest_cover": 8.6,
+    "biodiversity": 59.3,
+    "degradation": 51.3
+  },
+  "Kota Surabaya": {
+    "forest_cover": 3.2,
+    "biodiversity": 19.8,
+    "degradation": 67.0
+  },
+  "Kota Surakarta": {
+    "forest_cover": 21.6,
+    "biodiversity": 37.3,
+    "degradation": 64.7
+  },
+  "Kota Tangerang": {
+    "forest_cover": 9.2,
+    "biodiversity": 28.8,
+    "degradation": 49.7
+  },
+  "Kota Tangerang Selatan": {
+    "forest_cover": 8.5,
+    "biodiversity": 30.0,
+    "degradation": 73.7
+  },
+  "Kota Tanjung Balai": {
+    "forest_cover": 20.3,
+    "biodiversity": 41.8,
+    "degradation": 59.2
+  },
+  "Kota Tanjung Pinang": {
+    "forest_cover": 34.4,
+    "biodiversity": 41.1,
+    "degradation": 49.3
+  },
+  "Kota Tarakan": {
+    "forest_cover": 33.4,
+    "biodiversity": 71.2,
+    "degradation": 42.8
+  },
+  "Kota Tasikmalaya": {
+    "forest_cover": 8.9,
+    "biodiversity": 40.9,
+    "degradation": 56.0
+  },
+  "Kota Tebing Tinggi": {
+    "forest_cover": 28.7,
+    "biodiversity": 45.4,
+    "degradation": 62.7
+  },
+  "Kota Tegal": {
+    "forest_cover": 20.2,
+    "biodiversity": 55.5,
+    "degradation": 39.9
+  },
+  "Kota Ternate": {
+    "forest_cover": 33.1,
+    "biodiversity": 60.9,
+    "degradation": 50.0
+  },
+  "Kota Tidore Kepulauan": {
+    "forest_cover": 38.2,
+    "biodiversity": 51.3,
+    "degradation": 36.2
+  },
+  "Kota Tomohon": {
+    "forest_cover": 17.7,
+    "biodiversity": 51.8,
+    "degradation": 48.1
+  },
+  "Kota Tual": {
+    "forest_cover": 37.3,
+    "biodiversity": 55.1,
+    "degradation": 25.7
+  },
+  "Kota Yogyakarta": {
+    "forest_cover": 7.3,
+    "biodiversity": 32.2,
+    "degradation": 54.3
+  },
+  "Kotawaringin Barat": {
+    "forest_cover": 66.0,
+    "biodiversity": 61.2,
+    "degradation": 37.3
+  },
+  "Kotawaringin Timur": {
+    "forest_cover": 63.2,
+    "biodiversity": 82.7,
+    "degradation": 26.6
+  },
+  "Kuantan Singingi": {
+    "forest_cover": 46.5,
+    "biodiversity": 76.3,
+    "degradation": 54.3
+  },
+  "Kubu Raya": {
+    "forest_cover": 54.8,
+    "biodiversity": 61.0,
+    "degradation": 30.1
+  },
+  "Kudus": {
+    "forest_cover": 19.8,
+    "biodiversity": 55.4,
+    "degradation": 65.6
+  },
+  "Kulon Progo": {
+    "forest_cover": 16.0,
+    "biodiversity": 43.4,
+    "degradation": 51.0
+  },
+  "Kuningan": {
+    "forest_cover": 23.1,
+    "biodiversity": 39.3,
+    "degradation": 57.9
+  },
+  "Kupang": {
+    "forest_cover": 14.6,
+    "biodiversity": 49.1,
+    "degradation": 59.1
+  },
+  "Kutai Barat": {
+    "forest_cover": 48.5,
+    "biodiversity": 79.4,
+    "degradation": 34.5
+  },
+  "Kutai Kartanegara": {
+    "forest_cover": 69.1,
+    "biodiversity": 83.9,
+    "degradation": 40.8
+  },
+  "Kutai Timur": {
+    "forest_cover": 50.2,
+    "biodiversity": 68.9,
+    "degradation": 36.6
+  },
+  "Labuhan Batu": {
+    "forest_cover": 50.4,
+    "biodiversity": 77.9,
+    "degradation": 21.3
+  },
+  "Labuhan Batu Selatan": {
+    "forest_cover": 22.7,
+    "biodiversity": 70.2,
+    "degradation": 52.2
+  },
+  "Labuhan Batu Utara": {
+    "forest_cover": 59.9,
+    "biodiversity": 73.9,
+    "degradation": 35.2
+  },
+  "Lahat": {
+    "forest_cover": 23.9,
+    "biodiversity": 70.3,
+    "degradation": 50.5
+  },
+  "Lamandau": {
+    "forest_cover": 52.7,
+    "biodiversity": 79.4,
+    "degradation": 42.1
+  },
+  "Lamongan": {
+    "forest_cover": 6.1,
+    "biodiversity": 52.9,
+    "degradation": 45.3
+  },
+  "Lampung Barat": {
+    "forest_cover": 35.0,
+    "biodiversity": 54.7,
+    "degradation": 38.6
+  },
+  "Lampung Selatan": {
+    "forest_cover": 42.6,
+    "biodiversity": 75.4,
+    "degradation": 25.9
+  },
+  "Lampung Tengah": {
+    "forest_cover": 23.2,
+    "biodiversity": 77.9,
+    "degradation": 41.7
+  },
+  "Lampung Timur": {
+    "forest_cover": 29.6,
+    "biodiversity": 79.2,
+    "degradation": 25.0
+  },
+  "Lampung Utara": {
+    "forest_cover": 38.4,
+    "biodiversity": 58.1,
+    "degradation": 28.9
+  },
+  "Landak": {
+    "forest_cover": 35.4,
+    "biodiversity": 82.5,
+    "degradation": 42.0
+  },
+  "Langkat": {
+    "forest_cover": 47.1,
+    "biodiversity": 55.1,
+    "degradation": 35.5
+  },
+  "Lanny Jaya": {
+    "forest_cover": 70.4,
+    "biodiversity": 88.5,
+    "degradation": 13.5
+  },
+  "Lebak": {
+    "forest_cover": 15.6,
+    "biodiversity": 33.8,
+    "degradation": 64.6
+  },
+  "Lebong": {
+    "forest_cover": 28.0,
+    "biodiversity": 62.3,
+    "degradation": 36.9
+  },
+  "Lembata": {
+    "forest_cover": 17.1,
+    "biodiversity": 52.2,
+    "degradation": 47.2
+  },
+  "Lima Puluh Kota": {
+    "forest_cover": 59.7,
+    "biodiversity": 59.4,
+    "degradation": 54.2
+  },
+  "Lingga": {
+    "forest_cover": 46.3,
+    "biodiversity": 58.8,
+    "degradation": 39.8
+  },
+  "Lombok Barat": {
+    "forest_cover": 32.6,
+    "biodiversity": 58.1,
+    "degradation": 26.5
+  },
+  "Lombok Tengah": {
+    "forest_cover": 30.2,
+    "biodiversity": 51.4,
+    "degradation": 52.1
+  },
+  "Lombok Timur": {
+    "forest_cover": 20.6,
+    "biodiversity": 59.6,
+    "degradation": 43.2
+  },
+  "Lombok Utara": {
+    "forest_cover": 22.6,
+    "biodiversity": 55.2,
+    "degradation": 43.6
+  },
+  "Lumajang": {
+    "forest_cover": 21.9,
+    "biodiversity": 50.2,
+    "degradation": 58.1
+  },
+  "Luwu": {
+    "forest_cover": 52.2,
+    "biodiversity": 66.8,
+    "degradation": 46.9
+  },
+  "Luwu Timur": {
+    "forest_cover": 45.3,
+    "biodiversity": 57.3,
+    "degradation": 32.1
+  },
+  "Luwu Utara": {
+    "forest_cover": 42.9,
+    "biodiversity": 70.0,
+    "degradation": 20.9
+  },
+  "Madiun": {
+    "forest_cover": 12.4,
+    "biodiversity": 51.2,
+    "degradation": 41.1
+  },
+  "Magelang": {
+    "forest_cover": 8.3,
+    "biodiversity": 43.9,
+    "degradation": 69.0
+  },
+  "Magetan": {
+    "forest_cover": 18.3,
+    "biodiversity": 57.0,
+    "degradation": 64.1
+  },
+  "Mahakam Hulu": {
+    "forest_cover": 45.3,
+    "biodiversity": 83.1,
+    "degradation": 29.5
+  },
+  "Majalengka": {
+    "forest_cover": 25.2,
+    "biodiversity": 51.1,
+    "degradation": 46.9
+  },
+  "Majene": {
+    "forest_cover": 26.1,
+    "biodiversity": 76.9,
+    "degradation": 22.5
+  },
+  "Malaka": {
+    "forest_cover": 39.0,
+    "biodiversity": 60.8,
+    "degradation": 51.7
+  },
+  "Malang": {
+    "forest_cover": 29.5,
+    "biodiversity": 58.9,
+    "degradation": 63.2
+  },
+  "Malinau": {
+    "forest_cover": 49.6,
+    "biodiversity": 82.1,
+    "degradation": 15.4
+  },
+  "Maluku Barat Daya": {
+    "forest_cover": 57.2,
+    "biodiversity": 70.3,
+    "degradation": 26.8
+  },
+  "Maluku Tengah": {
+    "forest_cover": 61.5,
+    "biodiversity": 73.8,
+    "degradation": 30.6
+  },
+  "Maluku Tenggara": {
+    "forest_cover": 70.1,
+    "biodiversity": 60.9,
+    "degradation": 15.8
+  },
+  "Maluku Tenggara Barat": {
+    "forest_cover": 40.8,
+    "biodiversity": 81.9,
+    "degradation": 24.0
+  },
+  "Mamasa": {
+    "forest_cover": 54.9,
+    "biodiversity": 54.6,
+    "degradation": 20.0
+  },
+  "Mamberamo Raya": {
+    "forest_cover": 84.7,
+    "biodiversity": 95.9,
+    "degradation": 7.4
+  },
+  "Mamberamo Tengah": {
+    "forest_cover": 72.2,
+    "biodiversity": 78.2,
+    "degradation": 19.0
+  },
+  "Mamuju": {
+    "forest_cover": 33.0,
+    "biodiversity": 62.8,
+    "degradation": 21.1
+  },
+  "Mamuju Tengah": {
+    "forest_cover": 53.9,
+    "biodiversity": 52.1,
+    "degradation": 32.5
+  },
+  "Mamuju Utara": {
+    "forest_cover": 46.1,
+    "biodiversity": 70.3,
+    "degradation": 48.3
+  },
+  "Mandailing Natal": {
+    "forest_cover": 34.7,
+    "biodiversity": 67.3,
+    "degradation": 24.6
+  },
+  "Manggarai": {
+    "forest_cover": 22.4,
+    "biodiversity": 38.0,
+    "degradation": 44.7
+  },
+  "Manggarai Barat": {
+    "forest_cover": 22.2,
+    "biodiversity": 63.5,
+    "degradation": 31.0
+  },
+  "Manggarai Timur": {
+    "forest_cover": 21.1,
+    "biodiversity": 48.3,
+    "degradation": 58.5
+  },
+  "Manokwari": {
+    "forest_cover": 49.9,
+    "biodiversity": 48.0,
+    "degradation": 40.6
+  },
+  "Manokwari Selatan": {
+    "forest_cover": 39.1,
+    "biodiversity": 74.3,
+    "degradation": 30.8
+  },
+  "Mappi": {
+    "forest_cover": 71.9,
+    "biodiversity": 79.4,
+    "degradation": 4.2
+  },
+  "Maros": {
+    "forest_cover": 49.7,
+    "biodiversity": 58.6,
+    "degradation": 39.9
+  },
+  "Maybrat": {
+    "forest_cover": 42.5,
+    "biodiversity": 62.9,
+    "degradation": 20.6
+  },
+  "Melawi": {
+    "forest_cover": 66.5,
+    "biodiversity": 66.8,
+    "degradation": 18.8
+  },
+  "Mempawah": {
+    "forest_cover": 57.6,
+    "biodiversity": 61.9,
+    "degradation": 38.0
+  },
+  "Merangin": {
+    "forest_cover": 28.3,
+    "biodiversity": 56.9,
+    "degradation": 50.4
+  },
+  "Merauke": {
+    "forest_cover": 69.9,
+    "biodiversity": 78.4,
+    "degradation": 18.2
+  },
+  "Mesuji": {
+    "forest_cover": 20.1,
+    "biodiversity": 77.5,
+    "degradation": 25.1
+  },
+  "Mimika": {
+    "forest_cover": 63.9,
+    "biodiversity": 80.8,
+    "degradation": 5.1
+  },
+  "Minahasa": {
+    "forest_cover": 45.8,
+    "biodiversity": 48.8,
+    "degradation": 18.5
+  },
+  "Minahasa Selatan": {
+    "forest_cover": 50.4,
+    "biodiversity": 55.1,
+    "degradation": 28.4
+  },
+  "Minahasa Tenggara": {
+    "forest_cover": 28.3,
+    "biodiversity": 49.6,
+    "degradation": 41.7
+  },
+  "Minahasa Utara": {
+    "forest_cover": 40.9,
+    "biodiversity": 70.4,
+    "degradation": 33.2
+  },
+  "Mojokerto": {
+    "forest_cover": 24.5,
+    "biodiversity": 43.0,
+    "degradation": 38.8
+  },
+  "Morowali": {
+    "forest_cover": 40.1,
+    "biodiversity": 76.4,
+    "degradation": 19.4
+  },
+  "Morowali Utara": {
+    "forest_cover": 50.2,
+    "biodiversity": 74.0,
+    "degradation": 34.7
+  },
+  "Muara Enim": {
+    "forest_cover": 36.0,
+    "biodiversity": 73.9,
+    "degradation": 21.8
+  },
+  "Muaro Jambi": {
+    "forest_cover": 39.2,
+    "biodiversity": 62.9,
+    "degradation": 44.0
+  },
+  "Mukomuko": {
+    "forest_cover": 39.6,
+    "biodiversity": 79.1,
+    "degradation": 22.6
+  },
+  "Muna": {
+    "forest_cover": 24.9,
+    "biodiversity": 66.2,
+    "degradation": 20.1
+  },
+  "Muna Barat": {
+    "forest_cover": 31.9,
+    "biodiversity": 67.0,
+    "degradation": 35.5
+  },
+  "Murung Raya": {
+    "forest_cover": 48.0,
+    "biodiversity": 87.8,
+    "degradation": 30.9
+  },
+  "Musi Banyuasin": {
+    "forest_cover": 38.1,
+    "biodiversity": 69.4,
+    "degradation": 23.5
+  },
+  "Musi Rawas": {
+    "forest_cover": 48.1,
+    "biodiversity": 77.3,
+    "degradation": 42.8
+  },
+  "Musi Rawas Utara": {
+    "forest_cover": 50.8,
+    "biodiversity": 73.1,
+    "degradation": 27.5
+  },
+  "Nabire": {
+    "forest_cover": 73.5,
+    "biodiversity": 80.3,
+    "degradation": 8.1
+  },
+  "Nagan Raya": {
+    "forest_cover": 35.9,
+    "biodiversity": 57.5,
+    "degradation": 22.9
+  },
+  "Nagekeo": {
+    "forest_cover": 22.8,
+    "biodiversity": 55.0,
+    "degradation": 41.2
+  },
+  "Natuna": {
+    "forest_cover": 26.1,
+    "biodiversity": 79.5,
+    "degradation": 22.3
+  },
+  "Nduga": {
+    "forest_cover": 85.0,
+    "biodiversity": 77.1,
+    "degradation": 3.7
+  },
+  "Ngada": {
+    "forest_cover": 32.2,
+    "biodiversity": 59.4,
+    "degradation": 46.7
+  },
+  "Nganjuk": {
+    "forest_cover": 19.7,
+    "biodiversity": 44.7,
+    "degradation": 46.5
+  },
+  "Ngawi": {
+    "forest_cover": 8.1,
+    "biodiversity": 37.4,
+    "degradation": 58.3
+  },
+  "Nias": {
+    "forest_cover": 50.0,
+    "biodiversity": 77.8,
+    "degradation": 45.2
+  },
+  "Nias Barat": {
+    "forest_cover": 58.7,
+    "biodiversity": 69.2,
+    "degradation": 32.3
+  },
+  "Nias Selatan": {
+    "forest_cover": 43.1,
+    "biodiversity": 56.8,
+    "degradation": 43.0
+  },
+  "Nias Utara": {
+    "forest_cover": 29.0,
+    "biodiversity": 53.5,
+    "degradation": 49.6
+  },
+  "Nunukan": {
+    "forest_cover": 49.7,
+    "biodiversity": 81.4,
+    "degradation": 32.2
+  },
+  "Ogan Ilir": {
+    "forest_cover": 52.3,
+    "biodiversity": 77.0,
+    "degradation": 54.1
+  },
+  "Ogan Komering Ilir": {
+    "forest_cover": 52.7,
+    "biodiversity": 69.6,
+    "degradation": 42.5
+  },
+  "Ogan Komering Ulu": {
+    "forest_cover": 21.1,
+    "biodiversity": 79.7,
+    "degradation": 49.0
+  },
+  "Ogan Komering Ulu Selatan": {
+    "forest_cover": 30.7,
+    "biodiversity": 55.8,
+    "degradation": 44.6
+  },
+  "Ogan Komering Ulu Timur": {
+    "forest_cover": 32.4,
+    "biodiversity": 60.9,
+    "degradation": 20.2
+  },
+  "Pacitan": {
+    "forest_cover": 26.7,
+    "biodiversity": 44.8,
+    "degradation": 49.0
+  },
+  "Padang Lawas": {
+    "forest_cover": 25.7,
+    "biodiversity": 70.3,
+    "degradation": 21.1
+  },
+  "Padang Lawas Utara": {
+    "forest_cover": 49.8,
+    "biodiversity": 56.9,
+    "degradation": 34.7
+  },
+  "Padang Pariaman": {
+    "forest_cover": 33.6,
+    "biodiversity": 61.8,
+    "degradation": 45.3
+  },
+  "Pakpak Bharat": {
+    "forest_cover": 51.1,
+    "biodiversity": 68.2,
+    "degradation": 23.0
+  },
+  "Pamekasan": {
+    "forest_cover": 6.3,
+    "biodiversity": 30.5,
+    "degradation": 56.6
+  },
+  "Pandeglang": {
+    "forest_cover": 21.8,
+    "biodiversity": 34.5,
+    "degradation": 58.2
+  },
+  "Pangandaran": {
+    "forest_cover": 17.1,
+    "biodiversity": 40.5,
+    "degradation": 44.6
+  },
+  "Pangkajene Dan Kepulauan": {
+    "forest_cover": 46.4,
+    "biodiversity": 48.4,
+    "degradation": 32.9
+  },
+  "Paniai": {
+    "forest_cover": 68.5,
+    "biodiversity": 90.6,
+    "degradation": 10.8
+  },
+  "Parigi Moutong": {
+    "forest_cover": 46.0,
+    "biodiversity": 49.4,
+    "degradation": 30.6
+  },
+  "Pasaman": {
+    "forest_cover": 44.0,
+    "biodiversity": 50.2,
+    "degradation": 30.5
+  },
+  "Pasaman Barat": {
+    "forest_cover": 28.4,
+    "biodiversity": 54.4,
+    "degradation": 28.9
+  },
+  "Paser": {
+    "forest_cover": 31.5,
+    "biodiversity": 45.2,
+    "degradation": 42.4
+  },
+  "Pasuruan": {
+    "forest_cover": 9.4,
+    "biodiversity": 38.3,
+    "degradation": 59.6
+  },
+  "Pati": {
+    "forest_cover": 17.5,
+    "biodiversity": 54.2,
+    "degradation": 63.2
+  },
+  "Pegunungan Arfak": {
+    "forest_cover": 62.2,
+    "biodiversity": 94.8,
+    "degradation": 2.8
+  },
+  "Pegunungan Bintang": {
+    "forest_cover": 60.6,
+    "biodiversity": 96.2,
+    "degradation": 17.5
+  },
+  "Pekalongan": {
+    "forest_cover": 40.2,
+    "biodiversity": 62.2,
+    "degradation": 41.3
+  },
+  "Pelalawan": {
+    "forest_cover": 36.7,
+    "biodiversity": 53.7,
+    "degradation": 20.7
+  },
+  "Pemalang": {
+    "forest_cover": 13.1,
+    "biodiversity": 53.0,
+    "degradation": 56.6
+  },
+  "Penajam Paser Utara": {
+    "forest_cover": 49.1,
+    "biodiversity": 72.6,
+    "degradation": 22.6
+  },
+  "Penukal Abab Lematang Ilir": {
+    "forest_cover": 53.8,
+    "biodiversity": 57.8,
+    "degradation": 40.6
+  },
+  "Pesawaran": {
+    "forest_cover": 41.0,
+    "biodiversity": 62.7,
+    "degradation": 30.9
+  },
+  "Pesisir Barat": {
+    "forest_cover": 31.9,
+    "biodiversity": 55.0,
+    "degradation": 25.0
+  },
+  "Pesisir Selatan": {
+    "forest_cover": 40.4,
+    "biodiversity": 53.6,
+    "degradation": 37.8
+  },
+  "Pidie": {
+    "forest_cover": 51.7,
+    "biodiversity": 55.5,
+    "degradation": 41.8
+  },
+  "Pidie Jaya": {
+    "forest_cover": 48.7,
+    "biodiversity": 69.5,
+    "degradation": 27.1
+  },
+  "Pinrang": {
+    "forest_cover": 27.3,
+    "biodiversity": 53.9,
+    "degradation": 37.3
+  },
+  "Pohuwato": {
+    "forest_cover": 49.4,
+    "biodiversity": 67.7,
+    "degradation": 23.7
+  },
+  "Polewali Mandar": {
+    "forest_cover": 49.8,
+    "biodiversity": 62.8,
+    "degradation": 42.1
+  },
+  "Ponorogo": {
+    "forest_cover": 24.0,
+    "biodiversity": 40.7,
+    "degradation": 67.3
+  },
+  "Poso": {
+    "forest_cover": 42.3,
+    "biodiversity": 67.1,
+    "degradation": 38.0
+  },
+  "Pringsewu": {
+    "forest_cover": 54.6,
+    "biodiversity": 70.1,
+    "degradation": 25.3
+  },
+  "Probolinggo": {
+    "forest_cover": 6.7,
+    "biodiversity": 40.5,
+    "degradation": 45.6
+  },
+  "Pulang Pisau": {
+    "forest_cover": 46.0,
+    "biodiversity": 61.6,
+    "degradation": 30.2
+  },
+  "Pulau Morotai": {
+    "forest_cover": 49.9,
+    "biodiversity": 70.2,
+    "degradation": 11.4
+  },
+  "Pulau Taliabu": {
+    "forest_cover": 66.6,
+    "biodiversity": 60.1,
+    "degradation": 31.6
+  },
+  "Puncak": {
+    "forest_cover": 85.7,
+    "biodiversity": 89.1,
+    "degradation": 11.1
+  },
+  "Puncak Jaya": {
+    "forest_cover": 73.9,
+    "biodiversity": 87.7,
+    "degradation": 16.3
+  },
+  "Purbalingga": {
+    "forest_cover": 55.8,
+    "biodiversity": 64.4,
+    "degradation": 48.3
+  },
+  "Purwakarta": {
+    "forest_cover": 21.3,
+    "biodiversity": 36.3,
+    "degradation": 51.6
+  },
+  "Purworejo": {
+    "forest_cover": 8.8,
+    "biodiversity": 27.2,
+    "degradation": 38.6
+  },
+  "Raja Ampat": {
+    "forest_cover": 51.5,
+    "biodiversity": 55.3,
+    "degradation": 41.4
+  },
+  "Rejang Lebong": {
+    "forest_cover": 40.2,
+    "biodiversity": 55.5,
+    "degradation": 28.7
+  },
+  "Rembang": {
+    "forest_cover": 15.9,
+    "biodiversity": 40.4,
+    "degradation": 53.3
+  },
+  "Rokan Hilir": {
+    "forest_cover": 26.3,
+    "biodiversity": 61.9,
+    "degradation": 29.9
+  },
+  "Rokan Hulu": {
+    "forest_cover": 36.4,
+    "biodiversity": 60.8,
+    "degradation": 40.9
+  },
+  "Rote Ndao": {
+    "forest_cover": 33.7,
+    "biodiversity": 54.4,
+    "degradation": 32.0
+  },
+  "Sabu Raijua": {
+    "forest_cover": 12.8,
+    "biodiversity": 55.4,
+    "degradation": 38.5
+  },
+  "Sambas": {
+    "forest_cover": 63.9,
+    "biodiversity": 78.4,
+    "degradation": 42.2
+  },
+  "Samosir": {
+    "forest_cover": 54.9,
+    "biodiversity": 60.7,
+    "degradation": 40.4
+  },
+  "Sampang": {
+    "forest_cover": 8.5,
+    "biodiversity": 37.2,
+    "degradation": 68.9
+  },
+  "Sanggau": {
+    "forest_cover": 62.9,
+    "biodiversity": 71.0,
+    "degradation": 32.9
+  },
+  "Sarmi": {
+    "forest_cover": 88.1,
+    "biodiversity": 82.1,
+    "degradation": 8.8
+  },
+  "Sarolangun": {
+    "forest_cover": 51.7,
+    "biodiversity": 76.0,
+    "degradation": 43.5
+  },
+  "Sekadau": {
+    "forest_cover": 68.2,
+    "biodiversity": 80.7,
+    "degradation": 35.6
+  },
+  "Seluma": {
+    "forest_cover": 41.1,
+    "biodiversity": 70.7,
+    "degradation": 34.8
+  },
+  "Semarang": {
+    "forest_cover": 14.0,
+    "biodiversity": 37.7,
+    "degradation": 41.3
+  },
+  "Seram Bagian Barat": {
+    "forest_cover": 46.9,
+    "biodiversity": 83.6,
+    "degradation": 22.2
+  },
+  "Seram Bagian Timur": {
+    "forest_cover": 47.2,
+    "biodiversity": 61.7,
+    "degradation": 11.9
+  },
+  "Serang": {
+    "forest_cover": 26.1,
+    "biodiversity": 28.5,
+    "degradation": 62.0
+  },
+  "Serdang Bedagai": {
+    "forest_cover": 53.4,
+    "biodiversity": 78.3,
+    "degradation": 21.3
+  },
+  "Seruyan": {
+    "forest_cover": 48.5,
+    "biodiversity": 81.5,
+    "degradation": 18.9
+  },
+  "Siak": {
+    "forest_cover": 35.1,
+    "biodiversity": 55.2,
+    "degradation": 49.1
+  },
+  "Siau Tagulandang Biaro": {
+    "forest_cover": 49.8,
+    "biodiversity": 72.3,
+    "degradation": 23.3
+  },
+  "Sidenreng Rappang": {
+    "forest_cover": 35.3,
+    "biodiversity": 57.3,
+    "degradation": 40.3
+  },
+  "Sidoarjo": {
+    "forest_cover": 10.9,
+    "biodiversity": 40.5,
+    "degradation": 45.0
+  },
+  "Sigi": {
+    "forest_cover": 48.9,
+    "biodiversity": 61.5,
+    "degradation": 35.1
+  },
+  "Sijunjung": {
+    "forest_cover": 32.4,
+    "biodiversity": 75.9,
+    "degradation": 36.4
+  },
+  "Sikka": {
+    "forest_cover": 35.1,
+    "biodiversity": 46.0,
+    "degradation": 58.4
+  },
+  "Simalungun": {
+    "forest_cover": 59.4,
+    "biodiversity": 64.8,
+    "degradation": 29.9
+  },
+  "Simeulue": {
+    "forest_cover": 33.4,
+    "biodiversity": 60.8,
+    "degradation": 49.0
+  },
+  "Sinjai": {
+    "forest_cover": 51.4,
+    "biodiversity": 72.0,
+    "degradation": 22.4
+  },
+  "Sintang": {
+    "forest_cover": 67.5,
+    "biodiversity": 89.7,
+    "degradation": 17.7
+  },
+  "Situbondo": {
+    "forest_cover": 18.9,
+    "biodiversity": 28.6,
+    "degradation": 64.6
+  },
+  "Sleman": {
+    "forest_cover": 26.3,
+    "biodiversity": 35.0,
+    "degradation": 61.7
+  },
+  "Solok": {
+    "forest_cover": 30.9,
+    "biodiversity": 79.0,
+    "degradation": 25.2
+  },
+  "Solok Selatan": {
+    "forest_cover": 37.5,
+    "biodiversity": 80.3,
+    "degradation": 27.8
+  },
+  "Soppeng": {
+    "forest_cover": 38.2,
+    "biodiversity": 58.5,
+    "degradation": 18.9
+  },
+  "Sorong": {
+    "forest_cover": 21.9,
+    "biodiversity": 60.1,
+    "degradation": 27.1
+  },
+  "Sorong Selatan": {
+    "forest_cover": 54.8,
+    "biodiversity": 56.2,
+    "degradation": 20.8
+  },
+  "Sragen": {
+    "forest_cover": 28.3,
+    "biodiversity": 54.4,
+    "degradation": 57.7
+  },
+  "Subang": {
+    "forest_cover": 24.8,
+    "biodiversity": 29.8,
+    "degradation": 45.0
+  },
+  "Sukabumi": {
+    "forest_cover": 25.7,
+    "biodiversity": 49.4,
+    "degradation": 39.9
+  },
+  "Sukamara": {
+    "forest_cover": 63.2,
+    "biodiversity": 72.6,
+    "degradation": 15.2
+  },
+  "Sukoharjo": {
+    "forest_cover": 7.0,
+    "biodiversity": 34.0,
+    "degradation": 64.2
+  },
+  "Sumba Barat": {
+    "forest_cover": 26.5,
+    "biodiversity": 56.8,
+    "degradation": 45.8
+  },
+  "Sumba Barat Daya": {
+    "forest_cover": 13.3,
+    "biodiversity": 43.6,
+    "degradation": 39.0
+  },
+  "Sumba Tengah": {
+    "forest_cover": 11.4,
+    "biodiversity": 47.6,
+    "degradation": 53.8
+  },
+  "Sumba Timur": {
+    "forest_cover": 23.7,
+    "biodiversity": 38.3,
+    "degradation": 57.2
+  },
+  "Sumbawa": {
+    "forest_cover": 27.9,
+    "biodiversity": 35.5,
+    "degradation": 45.5
+  },
+  "Sumbawa Barat": {
+    "forest_cover": 17.3,
+    "biodiversity": 39.3,
+    "degradation": 42.9
+  },
+  "Sumedang": {
+    "forest_cover": 20.4,
+    "biodiversity": 33.4,
+    "degradation": 49.6
+  },
+  "Sumenep": {
+    "forest_cover": 21.6,
+    "biodiversity": 28.0,
+    "degradation": 69.1
+  },
+  "Supiori": {
+    "forest_cover": 62.0,
+    "biodiversity": 87.1,
+    "degradation": 11.1
+  },
+  "Tabalong": {
+    "forest_cover": 54.6,
+    "biodiversity": 61.6,
+    "degradation": 31.7
+  },
+  "Tabanan": {
+    "forest_cover": 27.4,
+    "biodiversity": 58.5,
+    "degradation": 54.5
+  },
+  "Takalar": {
+    "forest_cover": 31.1,
+    "biodiversity": 48.5,
+    "degradation": 43.2
+  },
+  "Tambrauw": {
+    "forest_cover": 32.1,
+    "biodiversity": 67.0,
+    "degradation": 38.8
+  },
+  "Tana Tidung": {
+    "forest_cover": 65.9,
+    "biodiversity": 80.6,
+    "degradation": 25.0
+  },
+  "Tana Toraja": {
+    "forest_cover": 23.6,
+    "biodiversity": 64.4,
+    "degradation": 44.0
+  },
+  "Tanah Bumbu": {
+    "forest_cover": 26.1,
+    "biodiversity": 68.4,
+    "degradation": 33.9
+  },
+  "Tanah Datar": {
+    "forest_cover": 47.8,
+    "biodiversity": 70.2,
+    "degradation": 48.4
+  },
+  "Tanah Laut": {
+    "forest_cover": 22.2,
+    "biodiversity": 68.3,
+    "degradation": 33.7
+  },
+  "Tangerang": {
+    "forest_cover": 12.3,
+    "biodiversity": 26.5,
+    "degradation": 42.0
+  },
+  "Tanggamus": {
+    "forest_cover": 21.7,
+    "biodiversity": 79.9,
+    "degradation": 38.0
+  },
+  "Tanjung Jabung Barat": {
+    "forest_cover": 54.6,
+    "biodiversity": 61.3,
+    "degradation": 27.6
+  },
+  "Tanjung Jabung Timur": {
+    "forest_cover": 46.4,
+    "biodiversity": 50.7,
+    "degradation": 30.7
+  },
+  "Tapanuli Selatan": {
+    "forest_cover": 51.2,
+    "biodiversity": 77.7,
+    "degradation": 31.6
+  },
+  "Tapanuli Tengah": {
+    "forest_cover": 25.0,
+    "biodiversity": 61.8,
+    "degradation": 51.1
+  },
+  "Tapanuli Utara": {
+    "forest_cover": 49.7,
+    "biodiversity": 78.6,
+    "degradation": 33.5
+  },
+  "Tapin": {
+    "forest_cover": 54.1,
+    "biodiversity": 59.9,
+    "degradation": 34.9
+  },
+  "Tasikmalaya": {
+    "forest_cover": 28.1,
+    "biodiversity": 43.2,
+    "degradation": 63.0
+  },
+  "Tebo": {
+    "forest_cover": 49.1,
+    "biodiversity": 52.5,
+    "degradation": 41.1
+  },
+  "Tegal": {
+    "forest_cover": 48.8,
+    "biodiversity": 61.4,
+    "degradation": 29.6
+  },
+  "Teluk Bintuni": {
+    "forest_cover": 22.8,
+    "biodiversity": 64.8,
+    "degradation": 29.2
+  },
+  "Teluk Wondama": {
+    "forest_cover": 41.1,
+    "biodiversity": 57.8,
+    "degradation": 40.7
+  },
+  "Temanggung": {
+    "forest_cover": 13.8,
+    "biodiversity": 26.5,
+    "degradation": 65.5
+  },
+  "Timor Tengah Selatan": {
+    "forest_cover": 20.6,
+    "biodiversity": 64.9,
+    "degradation": 38.2
+  },
+  "Timor Tengah Utara": {
+    "forest_cover": 39.4,
+    "biodiversity": 63.4,
+    "degradation": 32.3
+  },
+  "Toba Samosir": {
+    "forest_cover": 45.5,
+    "biodiversity": 61.6,
+    "degradation": 48.0
+  },
+  "Tojo Una-Una": {
+    "forest_cover": 46.5,
+    "biodiversity": 76.6,
+    "degradation": 22.6
+  },
+  "Toli-Toli": {
+    "forest_cover": 43.9,
+    "biodiversity": 71.4,
+    "degradation": 19.1
+  },
+  "Tolikara": {
+    "forest_cover": 62.0,
+    "biodiversity": 92.9,
+    "degradation": 8.6
+  },
+  "Toraja Utara": {
+    "forest_cover": 35.8,
+    "biodiversity": 65.0,
+    "degradation": 37.4
+  },
+  "Trenggalek": {
+    "forest_cover": 22.0,
+    "biodiversity": 58.2,
+    "degradation": 48.0
+  },
+  "Tuban": {
+    "forest_cover": 24.1,
+    "biodiversity": 45.1,
+    "degradation": 53.5
+  },
+  "Tulang Bawang Barat": {
+    "forest_cover": 35.9,
+    "biodiversity": 70.8,
+    "degradation": 28.7
+  },
+  "Tulangbawang": {
+    "forest_cover": 24.5,
+    "biodiversity": 73.5,
+    "degradation": 37.5
+  },
+  "Tulungagung": {
+    "forest_cover": 14.7,
+    "biodiversity": 44.7,
+    "degradation": 44.2
+  },
+  "Waduk Cirata": {
+    "forest_cover": 29.1,
+    "biodiversity": 58.4,
+    "degradation": 49.9
+  },
+  "Wadung Kedungombo": {
+    "forest_cover": 30.0,
+    "biodiversity": 72.5,
+    "degradation": 34.7
+  },
+  "Wajo": {
+    "forest_cover": 26.4,
+    "biodiversity": 73.6,
+    "degradation": 32.5
+  },
+  "Wakatobi": {
+    "forest_cover": 54.4,
+    "biodiversity": 61.4,
+    "degradation": 20.8
+  },
+  "Waropen": {
+    "forest_cover": 80.5,
+    "biodiversity": 94.4,
+    "degradation": 7.8
+  },
+  "Way Kanan": {
+    "forest_cover": 33.9,
+    "biodiversity": 52.1,
+    "degradation": 39.0
+  },
+  "Wonogiri": {
+    "forest_cover": 27.3,
+    "biodiversity": 54.8,
+    "degradation": 59.9
+  },
+  "Wonosobo": {
+    "forest_cover": 28.2,
+    "biodiversity": 47.3,
+    "degradation": 62.8
+  },
+  "Yahukimo": {
+    "forest_cover": 75.3,
+    "biodiversity": 77.8,
+    "degradation": 5.6
+  },
+  "Yalimo": {
+    "forest_cover": 64.2,
+    "biodiversity": 93.2,
+    "degradation": 2.5
+  }
+}
