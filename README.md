@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hyle
 
-## Getting Started
+Environmental monitoring and visualization platform.
 
-First, run the development server:
+## Concept
+Hyle is a minimalist platform designed for monitoring environmental data across different regions, providing interactive visualizations and data-driven insights.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
+- **Interactive Map**: Visualize geo-boundaries and environmental indicators using MapLibre GL.
+- **Data Insights**: Detailed analysis and statistics for regency-level environmental data.
+- **Content Management**: Integrated blog and insights system for environmental reporting.
+- **Admin Dashboard**: Secure management of users, content, and data requests.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
+- **Framework**: Next.js 16 (React 19)
+- **Styling**: Tailwind CSS & Shadcn UI
+- **Database**: PostgreSQL
+- **Mapping**: MapLibre GL
+- **Auth**: JWT-based authentication
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Setup
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Install dependencies**:
+   ```bash
+   npm install
+   ```
 
-## Learn More
+2. **Environment Configuration** (Optional, defaults are provided):
+   Create a `.env` file:
+   ```env
+   DB_USER=postgres
+   DB_HOST=localhost
+   DB_NAME=hyle
+   DB_PASSWORD=postgres
+   DB_PORT=5432
+   JWT_SECRET=your_secret_key
+   ```
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+3. **Start the development server**:
+   ```bash
+   npm run dev
+   ```
+   Access the app at `http://localhost:3000`.
