@@ -1,5 +1,5 @@
 # Hyle
-
+![Homepage](image.png)
 Environmental monitoring and visualization platform.
 
 ## Concept
